@@ -1,5 +1,5 @@
 # calculation-of-a-polynomial
-calculation of a polynomial with threads and with processes
+
 polynoms calculator
 authored by Iyar Levi
 
